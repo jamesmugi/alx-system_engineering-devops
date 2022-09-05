@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 james james 4096 Ful  5 14:07 .
+drwxrwxr-x 6 james james 4096 Ful  5 12:39 ..
+-rwxrw-r-- 1 james james   32 Ful  5 12:54 0-hello_world
+-rwxrw-r-- 1 james james   28 Ful  5 13:04 1-confused_smiley
+-rwxrw-r-- 1 james james   28 Ful  5 13:06 2-hellofile
+-rwxrw-r-- 1 james james   39 Ful  5 13:09 3-twofiles
+-rwxrw-r-- 1 james james   35 Ful  5 13:16 4-lastlines
+-rwxrw-r-- 1 james james   35 Ful  5 13:30 5-firstlines
+-rwxrw-r-- 1 james james   40 Ful  5 13:32 6-third_line
+-rwxrw-r-- 1 james james   71 Ful  5 13:54 7-file
+-rwxrw-r-- 1 james james   36 Ful  5 14:06 8-cwd_state
+-rw-rw-r-- 1 james james   12 Ful  5 13:54 *\"Best School"\\*$?*****:)
+-rw-rw-r-- 1 james james    0 Ful  5 14:07 ls_cwd_content
+-rw-rw-r-- 1 james james   29 Ful  5 12:52 README.md
